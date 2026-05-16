@@ -4,6 +4,7 @@ obj/
 *.user
 *.suo
 appsettings.json
+appsettings.Production.json
 logs/
 .env
 .DS_Store
