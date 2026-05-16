@@ -48,7 +48,7 @@ using (var scope = app.Services.CreateScope())
     try
     {
         var claudeService = scope.ServiceProvider.GetRequiredService<ClaudeService>();
-        //await claudeService.InitializeDocumentsAsync();
+        await claudeService.InitializeDocumentsAsync();
     }
     catch (Exception ex)
     {
