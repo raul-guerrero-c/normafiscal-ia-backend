@@ -1,0 +1,15 @@
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\bin\Debug\net10.0\NormaFiscalIA.Services.deps.json
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\bin\Debug\net10.0\NormaFiscalIA.Services.dll
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\bin\Debug\net10.0\NormaFiscalIA.Services.pdb
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\bin\Debug\net10.0\NormaFiscalIA.Core.dll
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\bin\Debug\net10.0\NormaFiscalIA.Core.pdb
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\obj\Debug\net10.0\NormaFiscalIA.Services.csproj.AssemblyReference.cache
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\obj\Debug\net10.0\NormaFiscalIA.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\obj\Debug\net10.0\NormaFiscalIA.Services.AssemblyInfoInputs.cache
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\obj\Debug\net10.0\NormaFiscalIA.Services.AssemblyInfo.cs
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\obj\Debug\net10.0\NormaFiscalIA.Services.csproj.CoreCompileInputs.cache
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\obj\Debug\net10.0\NormaFis.C5375D5A.Up2Date
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\obj\Debug\net10.0\NormaFiscalIA.Services.dll
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\obj\Debug\net10.0\refint\NormaFiscalIA.Services.dll
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\obj\Debug\net10.0\NormaFiscalIA.Services.pdb
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Services\obj\Debug\net10.0\ref\NormaFiscalIA.Services.dll

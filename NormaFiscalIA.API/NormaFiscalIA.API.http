@@ -1,0 +1,6 @@
+@NormaFiscalIA.API_HostAddress = http://localhost:5034
+
+GET {{NormaFiscalIA.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

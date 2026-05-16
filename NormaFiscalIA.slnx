@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="NormaFiscalIA.API/NormaFiscalIA.API.csproj" />
+  <Project Path="NormaFiscalIA.Core/NormaFiscalIA.Core.csproj" />
+  <Project Path="NormaFiscalIA.Services/NormaFiscalIA.Services.csproj" />
+</Solution>

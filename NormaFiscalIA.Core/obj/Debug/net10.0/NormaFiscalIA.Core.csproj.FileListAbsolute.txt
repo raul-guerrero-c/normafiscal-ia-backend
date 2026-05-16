@@ -1,0 +1,11 @@
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Core\bin\Debug\net10.0\NormaFiscalIA.Core.deps.json
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Core\bin\Debug\net10.0\NormaFiscalIA.Core.dll
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Core\bin\Debug\net10.0\NormaFiscalIA.Core.pdb
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Core\obj\Debug\net10.0\NormaFiscalIA.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Core\obj\Debug\net10.0\NormaFiscalIA.Core.AssemblyInfoInputs.cache
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Core\obj\Debug\net10.0\NormaFiscalIA.Core.AssemblyInfo.cs
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Core\obj\Debug\net10.0\NormaFiscalIA.Core.csproj.CoreCompileInputs.cache
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Core\obj\Debug\net10.0\NormaFiscalIA.Core.dll
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Core\obj\Debug\net10.0\refint\NormaFiscalIA.Core.dll
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Core\obj\Debug\net10.0\NormaFiscalIA.Core.pdb
+D:\Proyectos\NormaFiscalIA\NormaFiscalIA.Core\obj\Debug\net10.0\ref\NormaFiscalIA.Core.dll

@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+appsettings.json
+logs/
+.env
+.DS_Store
+*.vsidx
+*.lock
