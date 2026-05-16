@@ -48,7 +48,7 @@ using (var scope = app.Services.CreateScope())
     try
     {
         var claudeService = scope.ServiceProvider.GetRequiredService<ClaudeService>();
-        await claudeService.InitializeDocumentsAsync();
+        //await claudeService.InitializeDocumentsAsync();
     }
     catch (Exception ex)
     {
@@ -59,11 +59,11 @@ using (var scope = app.Services.CreateScope())
 //var app = builder.Build();
 app.UseMiddleware<ExceptionHandlingMiddleware>();
 
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 
 app.UseHttpsRedirection();
 app.UseCors("All");
