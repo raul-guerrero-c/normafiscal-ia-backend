@@ -1,5 +1,5 @@
 FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
-WORKSET /src
+WORKDIR /src
 
 COPY ["NormaFiscalIA.API/NormaFiscalIA.API.csproj", "NormaFiscalIA.API/"]
 COPY ["NormaFiscalIA.Core/NormaFiscalIA.Core.csproj", "NormaFiscalIA.Core/"]
@@ -19,6 +19,6 @@ WORKDIR /app
 COPY --from=publish /app/publish .
 
 EXPOSE 8080
-ENV ASPNETCORE_URLS=http://+:8080
+ENV ASPNETCORE_URLS=http://+:$PORT
 
 ENTRYPOINT ["dotnet", "NormaFiscalIA.API.dll"]
